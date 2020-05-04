@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b313d952a6c1091f12081239dfd8fd03",
+    "revision": "695463750cc61416553a72f994660c9f",
     "url": "/amic2/./index.html"
   },
   {
-    "revision": "9d9846dc44bf3d86cc90",
-    "url": "/amic2/./static/css/2.98192b52.chunk.css"
+    "revision": "dc0f764622fd539cf138",
+    "url": "/amic2/./static/css/2.6cffe261.chunk.css"
   },
   {
-    "revision": "bafca5db7fbc5f4a70a2",
-    "url": "/amic2/./static/css/main.f4688e18.chunk.css"
+    "revision": "e2dc8726dd3da4796d8d",
+    "url": "/amic2/./static/css/main.3495b8bd.chunk.css"
   },
   {
-    "revision": "9d9846dc44bf3d86cc90",
-    "url": "/amic2/./static/js/2.2bf29dba.chunk.js"
+    "revision": "dc0f764622fd539cf138",
+    "url": "/amic2/./static/js/2.0540c2bf.chunk.js"
   },
   {
-    "revision": "bafca5db7fbc5f4a70a2",
-    "url": "/amic2/./static/js/main.6bd9d416.chunk.js"
+    "revision": "e2dc8726dd3da4796d8d",
+    "url": "/amic2/./static/js/main.6a0cbf0d.chunk.js"
   },
   {
-    "revision": "d938ff11f53a5355c22e",
-    "url": "/amic2/./static/js/runtime-main.959abb27.js"
+    "revision": "f10453c2de1625b1ba4a",
+    "url": "/amic2/./static/js/runtime-main.ae764876.js"
   },
   {
     "url": "/amic2/./static/media/00884e3dc954fcc592c35ed58e578e11.00884e3d.ttf"
