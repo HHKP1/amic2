@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/amic2/./static/css/main.3495b8bd.chunk.css",
-    "main.js": "/amic2/./static/js/main.e005f287.chunk.js",
-    "main.js.map": "/amic2/./static/js/main.e005f287.chunk.js.map",
-    "runtime-main.js": "/amic2/./static/js/runtime-main.ae764876.js",
-    "runtime-main.js.map": "/amic2/./static/js/runtime-main.ae764876.js.map",
-    "static/css/2.6cffe261.chunk.css": "/amic2/./static/css/2.6cffe261.chunk.css",
-    "static/js/2.0540c2bf.chunk.js": "/amic2/./static/js/2.0540c2bf.chunk.js",
-    "static/js/2.0540c2bf.chunk.js.map": "/amic2/./static/js/2.0540c2bf.chunk.js.map",
-    "index.html": "/amic2/./index.html",
-    "precache-manifest.f3f8aa6338bf670eb905546bae716bb4.js": "/amic2/./precache-manifest.f3f8aa6338bf670eb905546bae716bb4.js",
-    "service-worker.js": "/amic2/./service-worker.js",
-    "static/css/2.6cffe261.chunk.css.map": "/amic2/./static/css/2.6cffe261.chunk.css.map",
-    "static/css/main.3495b8bd.chunk.css.map": "/amic2/./static/css/main.3495b8bd.chunk.css.map",
-    "static/media/index.css": "/amic2/./static/media/Intro-Light.a335312f.woff",
-    "static/media/App.css": "/amic2/./static/media/wood-bg-1440x900.9d34afe1.webp"
+    "main.css": "/amic2/static/css/main.2f35f03a.chunk.css",
+    "main.js": "/amic2/static/js/main.bbd1f915.chunk.js",
+    "main.js.map": "/amic2/static/js/main.bbd1f915.chunk.js.map",
+    "runtime-main.js": "/amic2/static/js/runtime-main.a7ca63f0.js",
+    "runtime-main.js.map": "/amic2/static/js/runtime-main.a7ca63f0.js.map",
+    "static/css/2.4c8b3075.chunk.css": "/amic2/static/css/2.4c8b3075.chunk.css",
+    "static/js/2.a1d24a5b.chunk.js": "/amic2/static/js/2.a1d24a5b.chunk.js",
+    "static/js/2.a1d24a5b.chunk.js.map": "/amic2/static/js/2.a1d24a5b.chunk.js.map",
+    "index.html": "/amic2/index.html",
+    "precache-manifest.f717daa230b1665fdeb3bda7e9700fc4.js": "/amic2/precache-manifest.f717daa230b1665fdeb3bda7e9700fc4.js",
+    "service-worker.js": "/amic2/service-worker.js",
+    "static/css/2.4c8b3075.chunk.css.map": "/amic2/static/css/2.4c8b3075.chunk.css.map",
+    "static/css/main.2f35f03a.chunk.css.map": "/amic2/static/css/main.2f35f03a.chunk.css.map",
+    "static/media/index.css": "/amic2/static/media/Intro-Light.a335312f.woff",
+    "static/media/App.css": "/amic2/static/media/wood-bg-1440x900.9d34afe1.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae764876.js",
-    "static/css/2.6cffe261.chunk.css",
-    "static/js/2.0540c2bf.chunk.js",
-    "static/css/main.3495b8bd.chunk.css",
-    "static/js/main.e005f287.chunk.js"
+    "static/js/runtime-main.a7ca63f0.js",
+    "static/css/2.4c8b3075.chunk.css",
+    "static/js/2.a1d24a5b.chunk.js",
+    "static/css/main.2f35f03a.chunk.css",
+    "static/js/main.bbd1f915.chunk.js"
   ]
 }
