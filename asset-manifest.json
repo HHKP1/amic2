@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amic2/static/css/main.2f35f03a.chunk.css",
+    "main.css": "/amic2/static/css/main.439b6451.chunk.css",
     "main.js": "/amic2/static/js/main.e86b7d10.chunk.js",
     "main.js.map": "/amic2/static/js/main.e86b7d10.chunk.js.map",
     "runtime-main.js": "/amic2/static/js/runtime-main.a7ca63f0.js",
@@ -9,10 +9,10 @@
     "static/js/2.0540c2bf.chunk.js": "/amic2/static/js/2.0540c2bf.chunk.js",
     "static/js/2.0540c2bf.chunk.js.map": "/amic2/static/js/2.0540c2bf.chunk.js.map",
     "index.html": "/amic2/index.html",
-    "precache-manifest.eb827b55a0c05d9aabe79ae6732edf2e.js": "/amic2/precache-manifest.eb827b55a0c05d9aabe79ae6732edf2e.js",
+    "precache-manifest.d3c9b6a71efd3cd7618a5a3b4a29f888.js": "/amic2/precache-manifest.d3c9b6a71efd3cd7618a5a3b4a29f888.js",
     "service-worker.js": "/amic2/service-worker.js",
     "static/css/2.4c8b3075.chunk.css.map": "/amic2/static/css/2.4c8b3075.chunk.css.map",
-    "static/css/main.2f35f03a.chunk.css.map": "/amic2/static/css/main.2f35f03a.chunk.css.map",
+    "static/css/main.439b6451.chunk.css.map": "/amic2/static/css/main.439b6451.chunk.css.map",
     "static/media/index.css": "/amic2/static/media/Intro-Light.a335312f.woff",
     "static/media/App.css": "/amic2/static/media/wood-bg-1440x900.9d34afe1.webp"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a7ca63f0.js",
     "static/css/2.4c8b3075.chunk.css",
     "static/js/2.0540c2bf.chunk.js",
-    "static/css/main.2f35f03a.chunk.css",
+    "static/css/main.439b6451.chunk.css",
     "static/js/main.e86b7d10.chunk.js"
   ]
 }
