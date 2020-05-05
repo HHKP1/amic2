@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "767abb2919718934ecbfef728cba7b9b",
+    "revision": "062293af72345159b9201e3abeb523f6",
     "url": "/amic2/./index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amic2/./static/css/2.4c8b3075.chunk.css"
   },
   {
-    "revision": "d5658b9fc7fe64e88c2d",
-    "url": "/amic2/./static/css/main.bb0d1531.chunk.css"
+    "revision": "f4d42e9c82d6d168a4fd",
+    "url": "/amic2/./static/css/main.4533f982.chunk.css"
   },
   {
     "revision": "dd4463427f9d29b8a611",
     "url": "/amic2/./static/js/2.a1d24a5b.chunk.js"
   },
   {
-    "revision": "d5658b9fc7fe64e88c2d",
+    "revision": "f4d42e9c82d6d168a4fd",
     "url": "/amic2/./static/js/main.c5463ae9.chunk.js"
   },
   {
